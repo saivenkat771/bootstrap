@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>KFC - Finger Lickin' Good</title>
+    <link rel="stylesheet" href="style.css">
+
+</head>
+<body>
+    <header>
+        <h1 style="padding-left: 495px; ">KFC - Finger Lickin' Good</h1>
+        <img src="./kfc bg.jpg" alt="logo">
+    </header>
+    <nav class="sai">
+        <ul class="nav-menu">
+            <li><a href="#home">Home</a></li>
+            <li><a href="#about-us">About Us</a></li>
+            <li><a href="#menu">Menu
+                </a></li>
+            <li><a href="#contact">Contact</a></li>
+        </ul>
+    </nav>
+    <body>
+        <section class="items">
+            <div class="item">
+                <img src="./burger.jpeg" alt="">
+                <h4>burger</h4>
+                <button>order</button>
+            </div>
+            <div class="item">
+                <img src="./chicken hotwings.jpeg" alt="">
+                <h4>chicken hot wings</h4>
+                <button>order</button>
+            </div>
+            <div class="item">
+                <img src="./chickenlolipop.jpeg" alt="">
+                <h4>chicken lolipop</h4>
+                <button>order</button>
+            </div>
+            <div class="item">
+                <img src="./grilled chicken.jpeg" alt="">
+                <h4>grilled chicken</h4>
+                <button>order</button>
+            </div>
+            <div class="item">
+                <img src="./zinger popcornchicken.jpeg" alt="">
+                <h4>zinger popcorn</h4>
+                <button>order</button>
+            </div>
+            <div class="item">
+                <img src="./kfc biriyani.jpeg" alt="">
+                <h4>biriyani</h4>
+                <button>order</button>
+            </div>
+            <section id="about us">
+                <h2>About us</h2>
+                <p>KFC, also known as Kentucky Fried Chicken, is a fast food restaurant chain that specializes in fried chicken.</p>
+            </section>
+            <section id="contact">
+                <h2>Get in Touch</h2>
+                <p>Phone: 555-555-5555</p>
+                <p>Email: [kfc@example.com](mailto:kfc@example.com)</p>
+            </section>
+            
+        </section>
+        <div class="container-fluid">
+            <div class="footer">
+                <p>&copy; 2024 KFC. All rights reserved.</p>
+            </div>
+        </div>
+
+    </body>
+</html>
